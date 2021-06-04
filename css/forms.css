@@ -16,7 +16,7 @@ form>div {
 /* writes to small text above reCAPTCHA upon failure */
 .dateFeedback{
     font-style:italic;
-    font-size:70%;
+    font-size:100%;
     font-weight:bold;
     color:#f00;
 }
